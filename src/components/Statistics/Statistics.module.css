@@ -1,0 +1,9 @@
+.statisticsList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.statisticItem {
+    margin: 5px 10px;
+}
